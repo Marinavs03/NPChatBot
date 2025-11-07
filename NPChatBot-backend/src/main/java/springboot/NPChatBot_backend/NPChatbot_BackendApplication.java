@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DevsolarisBackendApplication {
+public class NPChatbot_BackendApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DevsolarisBackendApplication.class, args);
+		SpringApplication.run(NPChatbot_BackendApplication.class, args);
 	}
 
 }
